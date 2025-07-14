@@ -1,0 +1,519 @@
+{
+  "company_name": "EOXS",
+  "products": [
+    {
+      "title": "Cloud-Based Accounting & Inventory Software | EOXS",
+      "overview": "Cloud-based accounting, invoicing & inventory management software for your business. Create invoices, track expenses, get a real-time view of your inventory and view financial reports when and where you need them.",
+      "main_features": [
+        {
+          "name": "Manage Sales and Orders",
+          "details": [
+            "Manage your sales and orders from start to finish. Create estimates and convert to invoice upon confirmation. Receive and record online payments automatically. Fulfill orders and keep track of your cost of goods sold."
+          ]
+        },
+        {
+          "name": "Take Charge of Your Inventory",
+          "details": [
+            "Manage all your inventory through a single dashboard. Whether you're picking, packing, and shipping, or even drop shipping, we've got you covered!"
+          ]
+        },
+        {
+          "name": "Quick and Easy Setup",
+          "details": [
+            "Your team can just sign up for unique accounts EOXS Books using your email or social authentication and half the work is done. Get preconfigured accounting rules, invoice templates, tax codes, charts of accounts among other things. Jump in and start creating invoices and run your business. Easily import your excel files or simply connect EOXS to your existing database for automatic import."
+          ]
+        },
+        {
+          "name": "Create and Send Invoices",
+          "details": [
+            "Generate and send invoices from your phone or laptop in minutes. Convert your confirmed quotations and estimates to invoices in one click. Use your interface with EOXS to get paid immediately."
+          ]
+        },
+        {
+          "name": "Professional Invoice Templates",
+          "details": [
+            "Get ready to use professional and prodigious looking templates for all transactions like invoices, quotations, orders, bills and payment receipts. You can also simply build your own template and upload and use your template to print or email PDFs to your contacts."
+          ]
+        },
+        {
+          "name": "Track Bills & Purchases",
+          "details": [
+            "Record purchase orders and bills in a few clicks. Keep track of your payables and expenses in one place. Email purchase orders to your suppliers and receive goods on time to maintain optimal inventory levels."
+          ]
+        },
+        {
+          "name": "Easily Track Dropship Orders",
+          "details": [
+            "EOXS Books allows you to rapidly create dropship orders for your supplier from customer orders. All the product, quantity and delivery address fields will be auto populated. All you need to do is update the fulfillment status once the actual shipment is done - EOXS takes care of all the accounting nits and grits."
+          ]
+        },
+        {
+          "name": "Better Backorder Management",
+          "details": [
+            "Get notified of any shortfall in inventory while creating estimates/quotations or invoices. Create a backorder immediately in one click and get notified when you have received the goods. Fulfill all your orders on time and never fall short on inventory."
+          ]
+        },
+        {
+          "name": "All Your Contacts in One Place",
+          "details": [
+            "Maintain your supplier and customer list in one centralized location. Access contact details from anywhere, anytime. Track unsettled receivables and payables easily and keep your cash flow strong."
+          ]
+        },
+        {
+          "name": "Automate Inventory Tracking Across Warehouses",
+          "details": [
+            "Track different types of products, including goods, services, raw materials and finished goods. Inventory movement across multiple warehouses is recorded automatically when you carry out any transaction. Get the flexibility of auto fulfillment and auto goods receipt when creating invoices and bills."
+          ]
+        },
+        {
+          "name": "Pick Pack Ship",
+          "details": [
+            "Get premium inventory functions like pick freight in EOXS Books. Conduct your entire sales and order fulfillment online. Create picking lists, pack into cartons and boxes, and ship via a carrier of your choice. Print packing and shipping labels. Track the order shipment in real time."
+          ]
+        },
+        {
+          "name": "Configurable Chart of Accounts",
+          "details": [
+            "EOXS Books comes with a preconfigured Chart of Accounts suitable for your business. All the necessary mappings are done for you so you don't have to spend any time in GL configuration. You can always choose to add/edit or import your own chart of accounts via a simple excel upload."
+          ]
+        },
+        {
+          "name": "Easy Adjustment of Invoices & Bills",
+          "details": [
+            "Easily adjust your invoices and bills when needed with credit and debit notes. Create credit and debit notes when necessary for your customers and suppliers. Apply credit and debit notes against invoices and bills in one click to knock off outstanding amounts. All the accounting entries are made automatically so you can focus on your business."
+          ]
+        },
+        {
+          "name": "Record Upfront Payments",
+          "details": [
+            "Record loan payments and deposits for your suppliers and customers in the currency of your choice. Use the advances to knock off against existing or future bills and invoices."
+          ]
+        },
+        {
+          "name": "Automatic Tax Calculations",
+          "details": [
+            "Record purchase orders and bills in a few clicks. Keep track of your payables and expenses in one place. Email purchase orders to your suppliers and receive goods on time to maintain optimal inventory stock."
+          ]
+        },
+        {
+          "name": "Add Your Own Fields",
+          "details": [
+            "Configure your data entry fields by adding custom fields of your choice to multiple forms like invoices, bills, journal entries, contacts or products. Filter all reports, including financial reports by custom fields to get better insight into your data."
+          ]
+        },
+        {
+          "name": "Real Time Reports",
+          "details": [
+            "Access all reports, including financial reports online. View income statement, balance sheet, trial balance, cash flow statement, general ledger and tax reports on your phone or desktop. Get detailed insight into your sales, purchase and inventory. Splice your reports using custom fields."
+          ]
+        },
+        {
+          "name": "Add Your Accountants for Free",
+          "details": [
+            "Simply enter your accountant's email and invite them to use the system. Control the access rights for team members with our simple yet powerful department based access system."
+          ]
+        },
+        {
+          "name": "Auto Journal Entries",
+          "details": [
+            "All transactional journal entries, like an invoice or forex gain/loss are automatically created and mapped to the correct general ledger account for proper reporting."
+          ]
+        }
+      ],
+      "industry_focus": null,
+      "category": "Accounting & Inventory"
+    },
+    {
+      "title": "EOXS CRM - Customer Relationship Management for Steel Industry",
+      "overview": "EOXS CRM is a 360-degree customer relationship management platform built exclusively for the metal industry, designed to help businesses keep on top of customer relationships and grow their business.",
+      "main_features": [
+        {
+          "name": "A CRM Built by Steel Sales Professionals",
+          "details": [
+            "Designed specifically for the metal industry",
+            "Simplifies collaborations",
+            "Automates marketing activities",
+            "Tracks and converts leads",
+            "Drives sales performance"
+          ]
+        },
+        {
+          "name": "Lead Management",
+          "details": [
+            "Capture and track leads through the sales pipeline",
+            "Convert prospects to customers efficiently",
+            "Organize lead information with custom fields",
+            "Track lead sources and conversion rates"
+          ]
+        },
+        {
+          "name": "Sales Management",
+          "details": [
+            "Track deals through pipeline stages",
+            "Manage sales activities and follow-ups",
+            "Forecast sales and analyze performance",
+            "Set sales targets and monitor progress"
+          ]
+        },
+        {
+          "name": "Project Management",
+          "details": [
+            "Organize and track project activities",
+            "Assign tasks and monitor completion",
+            "Collaborate with team members on projects",
+            "Track project timelines and milestones"
+          ]
+        },
+        {
+          "name": "Inventory Management",
+          "details": [
+            "Connect CRM with inventory data",
+            "Track product availability for sales opportunities",
+            "Manage product information and pricing",
+            "Link inventory to sales orders"
+          ]
+        },
+        {
+          "name": "Contact Management",
+          "details": [
+            "Preserve complete contact profiles with custom fields",
+            "Classify and link contacts to their organizations",
+            "Add or import contacts from existing databases",
+            "View contact information, notes, communication history",
+            "Track open and closed deals at a glance"
+          ]
+        },
+        {
+          "name": "Pipeline Management",
+          "details": [
+            "Get full visibility into your sales pipeline",
+            "Complete visibility across all pipeline stages",
+            "Drag and drop deals to update pipeline stages",
+            "Mark deals as won or lost",
+            "View real-time insights on your dashboard",
+            "Access deal information including value, stage, contacts, emails, notes"
+          ]
+        },
+        {
+          "name": "Deal Creation and Management",
+          "details": [
+            "Create new deals in seconds with value, expected close date, winning probability",
+            "Create custom fields to add additional information",
+            "Link deals with people and organizations",
+            "Track deal activities through sales pipeline stages"
+          ]
+        },
+        {
+          "name": "Email Integration",
+          "details": [
+            "Connect your email to send messages directly in EOXS",
+            "Communicate with contacts via CRM",
+            "Track emails and contact history in one place",
+            "Get a complete picture of all communications",
+            "Sync inbox on EOXS's Cloud system"
+          ]
+        },
+        {
+          "name": "Email Marketing Campaigns",
+          "details": [
+            "Set up email marketing campaigns with step-by-step method",
+            "Import or create lists, segment customers",
+            "Select or create templates",
+            "Schedule conversion-oriented email campaigns",
+            "Get detailed reports on open rates and click-through parameters"
+          ]
+        },
+        {
+          "name": "Customer Support Management",
+          "details": [
+            "Track and solve customer support tickets in one place",
+            "Categorize, prioritize, and assign tickets to support team",
+            "Connect support email to receive and respond to customer issues",
+            "Create custom ticket views by assignee, priority, status",
+            "Set up custom views to see relevant tickets on ticketing dashboard"
+          ]
+        },
+        {
+          "name": "Helpdesk Functionality",
+          "details": [
+            "Build a knowledge base for customer self-service",
+            "Reduce support tickets by empowering customers to find answers",
+            "Create and manage articles and sections",
+            "Brand your helpdesk with company logo and banner",
+            "Create a smart repository of articles for customer self-service"
+          ]
+        },
+        {
+          "name": "Team Management",
+          "details": [
+            "Organize sales staff into teams to track performance",
+            "Create different teams for clear picture of deals and activities",
+            "Evaluate team performance with real-time dashboard insights",
+            "Set record visibility by team for data security",
+            "Control which records are visible to specific teams"
+          ]
+        },
+        {
+          "name": "Calendar and Activity Management",
+          "details": [
+            "View all activities in calendar format for efficient planning",
+            "Schedule activities, tasks, meetings, emails with contacts or deals",
+            "Receive instant reminders and notifications for overdue activities",
+            "Plan day efficiently with comprehensive scheduling tools"
+          ]
+        },
+        {
+          "name": "Customization Options",
+          "details": [
+            "Configure CRM to match your specific requirements",
+            "Create and assign custom fields and attributes to deals or contacts",
+            "Add additional information with custom fields (text, numeric, dropdown)",
+            "Create different types of custom fields based on business needs"
+          ]
+        },
+        {
+          "name": "Real-Time Analytics and Reporting",
+          "details": [
+            "Access real-time insights on the dashboard",
+            "View open and won deals statistics",
+            "Track deal status by team members",
+            "Monitor team progress with intuitive dashboard",
+            "Make better business decisions with real-time sales insights"
+          ]
+        },
+        {
+          "name": "Key Benefits",
+          "details": [
+            "Power your sales, marketing, and customer support in one stage",
+            "Minimal training required with intuitive interface",
+            "Real-time analytics for better decision making",
+            "Instant notifications for overdue activities",
+            "Easy data import from spreadsheets",
+            "Data visibility management",
+            "Professional email templates",
+            "Customizable sections for tailored emails",
+            "Branded helpdesk capabilities",
+            "Advanced team activity management"
+          ]
+        }
+      ],
+      "industry_focus": "Built exclusively for the metal industry, EOXS CRM helps steel service centers and metal businesses manage customer relationships effectively."
+    },
+    {
+      "title": "EOXS People Overview",
+      "overview": "EOXS People is a relaxed online payroll software that helps users process payroll, payslips, leave, and claims efficiently.",
+      "main_features": [
+        {
+          "name": "Introduction",
+          "details": [
+            "EOXS People is a relaxed online payroll software that helps users process payroll, payslips, leave, and claims efficiently."
+          ]
+        },
+        {
+          "name": "Payroll Processing",
+          "details": [
+            "EOXS People simplifies payroll into 3 steps: Add employees, set the amount, and pay. Supports flexible schedules (weekly, monthly, etc.)."
+          ]
+        },
+        {
+          "name": "Dashboard Insights",
+          "details": [
+            "Get real-time insights, pay run history, upcoming payroll schedules, and action items via an intuitive dashboard."
+          ]
+        },
+        {
+          "name": "Earnings and Deductions",
+          "details": [
+            "Users can set up bonuses, pre/post-tax deductions, and other custom components that are automatically calculated."
+          ]
+        },
+        {
+          "name": "Employee Management",
+          "details": [
+            "Includes features like personal info, payroll, leave records, and sortable employee grids for quick access."
+          ]
+        },
+        {
+          "name": "Company Onboarding",
+          "details": [
+            "A startup wizard and tooltips guide companies through fast setup in just a few steps."
+          ]
+        },
+        {
+          "name": "Reports and Banking",
+          "details": [
+            "Customizable payroll reports with export options and direct deposit capabilities to employees' bank accounts."
+          ]
+        },
+        {
+          "name": "Data Migration",
+          "details": [
+            "Users can import data using predefined templates with automated mapping and component configuration."
+          ]
+        },
+        {
+          "name": "Role Management",
+          "details": [
+            "Role-based access control with custom dashboards based on permissions and roles included in subscription."
+          ]
+        },
+        {
+          "name": "Employee Portal",
+          "details": [
+            "Self-service portal for employees to access pay history, W-2s, and submit claims or leave applications."
+          ]
+        },
+        {
+          "name": "Leave Management",
+          "details": [
+            "Customizable leave policies, graphical trends, approval workflows, and team-based leave structures."
+          ]
+        },
+        {
+          "name": "Expense Management",
+          "details": [
+            "Automated expense submission via OCR, claim tracking, category-based reports, and dashboard summaries."
+          ]
+        },
+        {
+          "name": "Performance and Benefits",
+          "details": [
+            "Supports structured appraisals, contractor payments, and upcoming benefits administration features."
+          ]
+        },
+        {
+          "name": "FAQs",
+          "details": [
+            "Answers to common payroll, leave, approval, and editing process questions."
+          ]
+        }
+      ],
+      "industry_focus": null,
+      "category": "HR & Payroll"
+    },
+    {
+      "title": "EOXS SHOP",
+      "overview": "Build a futuristic website without code, showcase your products, and accept online payments - all with EOXS. Welcome to your digital storefront This is ecommerce made easy. Design your online store with the simplicity of our code-free drag-and-drop website builder. List your products, track inventory, and start accepting payments today. Say hello to digital entrepreneurship.",
+      "main_features": [
+        {
+          "name": "Accept online payments",
+          "details": [
+            "EOXS connects seamlessly with Stripe, meaning you can start collecting online payments in minutes, using one of the most recognized payment experiences on the web. Make it easy for customers to buy your products."
+          ]
+        },
+        {
+          "name": "Show off your products",
+          "details": [
+            "Upload photos, edit descriptions and provide customers everything they need to know what makes your products unique. EOXS Shop gives you full control of how your products are displayed."
+          ]
+        },
+        {
+          "name": "Design the store only you could create",
+          "details": [
+            "Use EOXS\u2019s simple drag-and-drop website builder to bring your website to life. Change colors, select your favorite images, and bring your preferred fonts. Get a responsive, unique website live in just minutes."
+          ]
+        },
+        {
+          "name": "Track inventory",
+          "details": [
+            "EOXS is an all-in-one tool for business growth. Use it to upload products to the store, showcase them on your website, and even track inventory so you run an efficient business."
+          ]
+        },
+        {
+          "name": "Design conversion-optimized landing pages for each product",
+          "details": [
+            "Ready to turn up the conversions? Create mobile-friendly landing pages for each product. This allows customers to take a deeper dive into everything you sell \u2014 and even run ads that drive customers to the products they\u2019re most interested in."
+          ]
+        },
+        {
+          "name": "Bring your own domain - or borrow ours",
+          "details": [
+            "Own your perfect URL? Bring it to EOXS to make website building and maintenance easy. If you don\u2019t own a domain yet, you can launch your website for free using the EOXS.com domain - so you can start selling products online today."
+          ]
+        },
+        {
+          "name": "Easily record transactions",
+          "details": [
+            "Connect EOXS Shop with EOXS Books to track your online sales. You can even upload your product purchase and sale price to keep track of margins. Keep all your numbers in one place for easy recording."
+          ]
+        },
+        {
+          "name": "All the tools you need to launch your online store",
+          "details": [
+            "Add striking images with text overlay or captions",
+            "Build a mobile-ready website",
+            "Showcase your featured blog articles",
+            "Get sale notifications straight to your phone",
+            "Insert multi-column sections",
+            "Highlight your top products in featured collections",
+            "Monetize your EOXS website",
+            "Display photo galleries to create a lasting visual impact",
+            "Add social proof with testimonials from your customers",
+            "Build your email list by adding a subscribe section to your newsletter"
+          ]
+        }
+      ],
+      "industry_focus": null,
+      "category": "E-commerce"
+    },
+    {
+      "title": "EOXS Reports",
+      "overview": "Compile all your business data into a single report. Select which data points to include and how they should display.",
+      "main_features": [
+        {
+          "name": "Features",
+          "details": [
+            "Generate reports for yourself and clients.",
+            "Easily select data from different departments, categories, and dashboards.",
+            "Instantly see what a report looks like to make adjustments.",
+            "View and update reports at any time.",
+            "Gain insights from all data sources across your business.",
+            "Automatically pull data from every side of your business into a single holistic report.",
+            "Create one-off or recurring reports.",
+            "Receive regular updates about business growth and changes.",
+            "Easily share reports: save, print, download, email, or create a designated link.",
+            "Generate unlimited dashboards.",
+            "View your business and client businesses from every angle.",
+            "Highlight important aspects of your business or campaigns.",
+            "Start from a template or from scratch.",
+            "Select and deselect data points to change report content.",
+            "Use multiple graph styles to present information from multiple angles."
+          ]
+        }
+      ],
+      "industry_focus": null,
+      "category": "Analytics & Reporting"
+    },
+    {
+      "title": "Making Steel Sexy Again",
+      "overview": "Rajat Jain, an Indian-born entrepreneur turned steel\u2011tech founder, aims to spark a conversation about revitalising the U.S. steel distribution ecosystem through technology, inclusion, and sustainability.",
+      "main_features": [
+        {
+          "name": "Key Takeaways",
+          "details": [
+            "Innovation debt from outdated processes erodes margins faster than tech upgrades cost.",
+            "Combining digital transformation with diverse teams yields competitive advantage.",
+            "Smart, visible supply chains mitigate import and logistics shocks.",
+            "Cloud ERP provides the single source of truth for e\u2011commerce and analytics.",
+            "Early adoption of green steel practices captures premium markets."
+          ]
+        },
+        {
+          "name": "Chapters",
+          "details": [
+            "For the Sake of History: A historical overview of steel over 4,000 years, highlighting U.S. dominance post\u2011Bessemer and warning against complacency.",
+            "If It Ain\u2019t Broken, Don\u2019t Fix It: Critiques the maintenance\u2011mode mindset in distributors, drawing parallels with Nokia, Kodak, and Blockbuster.",
+            "Steel Industry Needs to Embrace Technology: COVID\u201119 exposed the sector\u2019s tech lag; modernisation is urgent to combat manual processes and talent shortages.",
+            "The Fourth Industrial Revolution (Industry 4.0): Explains AI, IoT, and cloud levers for predictive maintenance, inventory optimisation, and smart factories.",
+            "Steel Strong: Overcoming Supply\u2011Chain Challenges: Addresses imports, raw\u2011material volatility, and logistics bottlenecks; prescribes digital roadmaps and capacity expansion.",
+            "ERP Is the Need of the Hour: Cloud ERP integrates operations, eliminating spreadsheet chaos and unlocking real\u2011time analytics despite adoption hurdles.",
+            "B2B E\u2011commerce is the Future: Digital storefronts automate quoting and expand reach, contingent on cybersecurity and staff up\u2011skilling.",
+            "Break the Doors: Overcoming Gate\u2011keeping: Highlights exclusionary hiring; diversity boosts creativity, tech adoption, and customer alignment.",
+            "Build a Steel Industry for a Sustainable Future: Outlines pathways to low\u2011carbon steel via energy efficiency, recycling, renewables, and CCS."
+          ]
+        }
+      ],
+      "category": "Thought Leadership"
+    }
+  ]
+}

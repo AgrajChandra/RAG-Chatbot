@@ -1,0 +1,920 @@
+{
+  "PR and Branding": {
+    "Department_ID": "D009",
+    "employees": [
+      {
+        "name": "Abhirup Bose",
+        "email": "abhirup3113@gmail.com",
+        "job_title": "PR and Branding Intern",
+        "manager": "Ron",
+        "employee_id": "D009_E001"
+      },
+      {
+        "name": "Ashutosh",
+        "email": "work.asutosh09@gmail.com",
+        "job_title": "PR & BRANDING INTERN",
+        "manager": "Ron",
+        "employee_id": "D009_E002"
+      },
+      {
+        "name": "Diya Nagpal",
+        "email": "nagpaldiya2005@gmail.com",
+        "job_title": "PR & BRANDING INTERN",
+        "manager": "Ron",
+        "employee_id": "D009_E003"
+      },
+      {
+        "name": "Mayank Joshi",
+        "email": "joshimayank809@gmail.com",
+        "job_title": "PR & BRANDING INTERN",
+        "manager": "Ron",
+        "employee_id": "D009_E004"
+      },
+      {
+        "name": "Pankaj Mishra",
+        "email": "Onlinepankajmishra@gmail.com",
+        "job_title": "PR & BRANDING INTERN",
+        "manager": "Ron",
+        "employee_id": "D009_E005"
+      },
+      {
+        "name": "Sakshi",
+        "email": "sakshi@eoxsteam.com",
+        "job_title": "PR and Branding Intern",
+        "manager": "Ron",
+        "employee_id": "D009_E006"
+      },
+      {
+        "name": "Sheenam Rawat",
+        "email": "sheenam@eoxsteam.com",
+        "job_title": "PR and Branding Associate",
+        "manager": "Ron",
+        "employee_id": "D009_E007"
+      },
+      {
+        "name": "Shradha",
+        "email": "Sonalsingh95460@gmail.com",
+        "job_title": "PR and Branding Intern",
+        "manager": "Ron",
+        "employee_id": "D009_E008"
+      }
+    ]
+  },
+  "Innovation Cell": {
+    "Department_ID": "D007",
+    "employees": [
+      {
+        "name": "Abhishek Upmanyu",
+        "email": "abhishekupmanyueoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Ron",
+        "employee_id": "D007_E001"
+      },
+      {
+        "name": "Agraj Chandra",
+        "email": "agrajchandraeoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Ron",
+        "employee_id": "D007_E002"
+      },
+      {
+        "name": "Atharv Ashok Patil",
+        "email": "atharvpatileoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Not Assigned",
+        "employee_id": "D007_E003"
+      },
+      {
+        "name": "Jasbir Singh Sabharwal",
+        "email": "jasbirsinghsabharwaleoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Not Assigned",
+        "employee_id": "D007_E004"
+      },
+      {
+        "name": "Joey Salakha",
+        "email": "joeysalakhaeoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Rohit Kumar Jha",
+        "employee_id": "D007_E005"
+      },
+      {
+        "name": "Manav Vaish",
+        "email": "manavvaisheoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Ron",
+        "employee_id": "D007_E006"
+      },
+      {
+        "name": "Poojitha",
+        "email": "poojitha.beoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Ron",
+        "employee_id": "D007_E007"
+      },
+      {
+        "name": "Sachin Srivastava",
+        "email": "sachinsrivastavaeoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Ron",
+        "employee_id": "D007_E008"
+      },
+      {
+        "name": "Sahaj Katiyar",
+        "email": "sahajkatiyareoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Ron",
+        "employee_id": "D007_E009"
+      },
+      {
+        "name": "Shivang Singh",
+        "email": "shivangsingheoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Ron",
+        "employee_id": "D007_E010"
+      },
+      {
+        "name": "Shubham Raj",
+        "email": "shubhamrajeoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Ron",
+        "employee_id": "D007_E011"
+      },
+      {
+        "name": "Siddhanth Verma",
+        "email": "siddhanthvermasml@gmail.com",
+        "job_title": "Innovation Cell",
+        "manager": "Ron",
+        "employee_id": "D007_E012"
+      },
+      {
+        "name": "Sumit Ranjan",
+        "email": "sumitranjaneoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Ron",
+        "employee_id": "D007_E013"
+      },
+      {
+        "name": "Hitler",
+        "email": "haileoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Ron"
+      },
+      {
+        "name": "Trump",
+        "email": "americaeoxs@gmail.com",
+        "job_title": "Innovation Cell Intern",
+        "manager": "Ron"
+      },
+      {
+        "name": "ishowspeed",
+        "email": "chltihai@gmail.com",
+        "job_title": "bhagte intern",
+        "manager": "Sachin Srivastva"
+      }
+    ]
+  },
+  "Clicking": {
+    "Department_ID": "D003",
+    "employees": [
+      {
+        "name": "Afreen Akhtar",
+        "email": "afreenakhtar8045@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Remya Mohanan",
+        "employee_id": "D003_E001"
+      },
+      {
+        "name": "Aisha Fatima",
+        "email": "mailaishafatima@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Remya Mohanan",
+        "employee_id": "D003_E002"
+      },
+      {
+        "name": "Irfan Firoz",
+        "email": "irfanfiroz90@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Remya Mohanan",
+        "employee_id": "D003_E003"
+      },
+      {
+        "name": "Juhi Fatima",
+        "email": "juhi.eoxs@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Remya Mohanan",
+        "employee_id": "D003_E004"
+      },
+      {
+        "name": "Mohammad Fahad",
+        "email": "mfahad2614@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Remya Mohanan",
+        "employee_id": "D003_E005"
+      },
+      {
+        "name": "Mohammad Zeeshan",
+        "email": "mdzee1100@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Ron",
+        "employee_id": "D003_E006"
+      },
+      {
+        "name": "Mohd Adnan",
+        "email": "nawazakhtar049@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Ron",
+        "employee_id": "D003_E007"
+      },
+      {
+        "name": "Rumana Khatoon",
+        "email": "rumanashahbaz77@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Remya Mohanan",
+        "employee_id": "D003_E008"
+      },
+      {
+        "name": "Sadaf Fatima",
+        "email": "sadaf.eoxs@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Remya Mohanan",
+        "employee_id": "D003_E009"
+      },
+      {
+        "name": "Sana Raza",
+        "email": "sanaraza9813@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Remya Mohanan",
+        "employee_id": "D003_E010"
+      },
+      {
+        "name": "Tahniyat Raza",
+        "email": "Tahniyatraza386@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Ron",
+        "employee_id": "D003_E011"
+      },
+      {
+        "name": "Taifa Harum",
+        "email": "taifaharum81@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Remya Mohanan",
+        "employee_id": "D003_E012"
+      },
+      {
+        "name": "Zainab Fatima",
+        "email": "zainabfatimaz866@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Ron",
+        "employee_id": "D003_E013"
+      }
+    ]
+  },
+  "Product Development": {
+    "Department_ID": "D010",
+    "employees": [
+      {
+        "name": "Akash Deep",
+        "email": "akashdep988@gmail.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D010_E001"
+      },
+      {
+        "name": "Deepak Saxena",
+        "email": "Deepaksaxena192837@gmail.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D010_E002"
+      },
+      {
+        "name": "Dhrup Kumar Singh",
+        "email": "dhrup@eoxsteam.com",
+        "job_title": "Product Developer",
+        "manager": "Ron",
+        "employee_id": "D010_E003"
+      },
+      {
+        "name": "Faraz Rabbani",
+        "email": "farazrabbani2002@gmail.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D010_E004"
+      },
+      {
+        "name": "Hashir Saleem",
+        "email": "hashirsaleem326@gmail.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D010_E005"
+      },
+      {
+        "name": "Kartik",
+        "email": "kartikdhoor121@gmail.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D010_E006"
+      },
+      {
+        "name": "Mohd Usama",
+        "email": "0008usama@gmail.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D010_E007"
+      },
+      {
+        "name": "Nandish",
+        "email": "nandish@eoxsteam.com",
+        "job_title": "Project Management Executive",
+        "manager": "Ron",
+        "employee_id": "D010_E008"
+      },
+      {
+        "name": "Navneet",
+        "email": "navneet@eoxsteam.com",
+        "job_title": "Product Developer",
+        "manager": "Ron",
+        "employee_id": "D010_E009"
+      },
+      {
+        "name": "Rahul Bains",
+        "email": "rahulavu1233@gmail.com",
+        "job_title": "Product Intern",
+        "manager": "Nandish",
+        "employee_id": "D010_E010"
+      },
+      {
+        "name": "Rohit Kumar Jha",
+        "email": "rohitjham762@gmail.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D010_E011"
+      },
+      {
+        "name": "Ron",
+        "email": "ronn@eoxs.com",
+        "job_title": "Account Executive",
+        "manager": "Remya Mohanan",
+        "employee_id": "D010_E012"
+      },
+      {
+        "name": "Shaurya Aditya",
+        "email": "shauryaaditya0404@gmail.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D010_E013"
+      },
+      {
+        "name": "Yash Manish Motghare",
+        "email": "yashm@eoxsteam.com",
+        "job_title": "Product Developer",
+        "manager": "Ron",
+        "employee_id": "D010_E014"
+      }
+    ]
+  },
+  "Product Interns": {
+    "Department_ID": "D011",
+    "employees": [
+      {
+        "name": "Aksh Bahl",
+        "email": "bahlaksh@gmail.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D011_E001"
+      }
+    ]
+  },
+  "Business Analyst": {
+    "Department_ID": "D002",
+    "employees": [
+      {
+        "name": "Akshat Rawat",
+        "email": "akshatrawateoxs@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E001"
+      },
+      {
+        "name": "Anjali Bibhuti",
+        "email": "anjalibibhutieoxs@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E002"
+      },
+      {
+        "name": "Ayush Wadhwa",
+        "email": "ayushwadhwa91@gmail.com",
+        "job_title": "Business Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E003"
+      },
+      {
+        "name": "Bhushan Shinde",
+        "email": "bshinde56@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E004"
+      },
+      {
+        "name": "Harsh Mankotia",
+        "email": "harshmankotiaeoxs@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E005"
+      },
+      {
+        "name": "Humaira Zainab",
+        "email": "humzi27@gmail.com",
+        "job_title": "Business Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E006"
+      },
+      {
+        "name": "Jasmeet Kaur",
+        "email": "nancywalia206@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E007"
+      },
+      {
+        "name": "Jayesh Vadnere",
+        "email": "jayeshvadnere@eoxsteam.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E008"
+      },
+      {
+        "name": "Khushi Gupta",
+        "email": "khushiguptaeoxs@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E009"
+      },
+      {
+        "name": "Kunal Chauhan",
+        "email": "kunalchauhaneoxs@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E010"
+      },
+      {
+        "name": "Meet Girdhar",
+        "email": "Meetgirdhareoxs@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E011"
+      },
+      {
+        "name": "Prathamesh Suryankant",
+        "email": "ambreprathamesh10@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E012"
+      },
+      {
+        "name": "Rahul Kumar",
+        "email": "Rahulkumareoxs@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E013"
+      },
+      {
+        "name": "Ritik Thakur",
+        "email": "ritikthakureoxs@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E014"
+      },
+      {
+        "name": "Sourav Sharma",
+        "email": "souravsharma0697@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E015"
+      },
+      {
+        "name": "Sunil Chopra",
+        "email": "sunilchopraeoxs@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E016"
+      },
+      {
+        "name": "Tisha Dhiman",
+        "email": "tishadhimaneoxs@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E017"
+      },
+      {
+        "name": "Vikhyat Negi",
+        "email": "vikhyat.negi@gmail.com",
+        "job_title": "Business Analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D002_E018"
+      }
+    ]
+  },
+  "Clicking / Clicking": {
+    "Department_ID": "D004",
+    "employees": [
+      {
+        "name": "Amir\u00c2\u00a0Lari",
+        "email": "wzmbeta1@gmail.com",
+        "job_title": "SEO Associate",
+        "manager": "Ron",
+        "employee_id": "D004_E001"
+      },
+      {
+        "name": "Anas",
+        "email": "mohd.ma82@gmail.com",
+        "job_title": "SEO Associate",
+        "manager": "Ron",
+        "employee_id": "D004_E002"
+      },
+      {
+        "name": "Fatima",
+        "email": "mhumaid431@gmail.com",
+        "job_title": "Clicking",
+        "manager": "Ron",
+        "employee_id": "D004_E003"
+      },
+      {
+        "name": "Furqan\u00c2\u00a0Sarfaraz",
+        "email": "furqan077@gmail.com",
+        "job_title": "SEO Associate",
+        "manager": "Ron",
+        "employee_id": "D004_E004"
+      },
+      {
+        "name": "Hina",
+        "email": "hinarukhshar@gmail.com",
+        "job_title": "SEO Associate",
+        "manager": "Ron",
+        "employee_id": "D004_E005"
+      },
+      {
+        "name": "Mohd Farhan",
+        "email": "farhanizaan@gmail.com",
+        "job_title": "SEO Associate",
+        "manager": "Ron",
+        "employee_id": "D004_E006"
+      },
+      {
+        "name": "Shabana Bashir",
+        "email": "shabanabashir7985@gmail.com",
+        "job_title": "SEO Associate",
+        "manager": "Ron",
+        "employee_id": "D004_E007"
+      },
+      {
+        "name": "Shireen Fatima",
+        "email": "umra1307@gmail.com",
+        "job_title": "SEO Associate",
+        "manager": "Ron",
+        "employee_id": "D004_E008"
+      },
+      {
+        "name": "Tehreem",
+        "email": "tehreemfati9510@gmail.com",
+        "job_title": "SEO Associate",
+        "manager": "Ron",
+        "employee_id": "D004_E009"
+      },
+      {
+        "name": "Uzma",
+        "email": "uzma011993@gmail.com",
+        "job_title": "SEO Associate",
+        "manager": "Ron",
+        "employee_id": "D004_E010"
+      }
+    ]
+  },
+  "Product Interns / Product Interns": {
+    "Department_ID": "D012",
+    "employees": [
+      {
+        "name": "Arpan Singh",
+        "email": "arpan@eoxsteam.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D012_E001"
+      },
+      {
+        "name": "Aviral Srivastava",
+        "email": "aviral@eoxsteam.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D012_E002"
+      },
+      {
+        "name": "Harneet Kaur",
+        "email": "harneet@eoxsteam.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D012_E003"
+      },
+      {
+        "name": "Pranav Arya",
+        "email": "pranav@eoxsteam.com",
+        "job_title": "Product Intern",
+        "manager": "Ron",
+        "employee_id": "D012_E004"
+      }
+    ]
+  },
+  "Data Analyst": {
+    "Department_ID": "D005",
+    "employees": [
+      {
+        "name": "Aryan Bakshi",
+        "email": "aryanbakshieoxs@gmail.com",
+        "job_title": "Data analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D005_E001"
+      },
+      {
+        "name": "Raghav Rana",
+        "email": "raghavranaeoxs@gmail.com",
+        "job_title": "Data analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D005_E002"
+      },
+      {
+        "name": "Rajat Agarwal",
+        "email": "rajatagarwal4226@gmail.com",
+        "job_title": "Data analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D005_E003"
+      },
+      {
+        "name": "Sarthak Verma",
+        "email": "sarthakvermaeoxs@gmail.com",
+        "job_title": "Data analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D005_E004"
+      },
+      {
+        "name": "Satyam",
+        "email": "satymydveoxs@gmail.com",
+        "job_title": "Data analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D005_E005"
+      },
+      {
+        "name": "Satyvarth Rathi",
+        "email": "satyvarthrathieoxs@gmail.com",
+        "job_title": "Data analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D005_E006"
+      },
+      {
+        "name": "Vanshika Sharma",
+        "email": "vanshikasharmaeoxs@gmail.com",
+        "job_title": "Data analyst Intern",
+        "manager": "Nandish",
+        "employee_id": "D005_E007"
+      }
+    ]
+  },
+  "Marketing/OPS Team": {
+    "Department_ID": "D008",
+    "employees": [
+      {
+        "name": "Aston Dias",
+        "email": "astondias321@gmail.com",
+        "job_title": "Marketing Intern",
+        "manager": "Ron",
+        "employee_id": "D008_E001"
+      },
+      {
+        "name": "Danish Lari",
+        "email": "danish@eoxsteam.com",
+        "job_title": "Database Manager",
+        "manager": "Ron",
+        "employee_id": "D008_E002"
+      },
+      {
+        "name": "Fardeen",
+        "email": "fardeen@eoxsteam.com",
+        "job_title": "Website Manager",
+        "manager": "Ron",
+        "employee_id": "D008_E003"
+      },
+      {
+        "name": "Leesha Tembhurkar",
+        "email": "leeshat79@gmail.com",
+        "job_title": "Marketing Intern",
+        "manager": "Ron",
+        "employee_id": "D008_E004"
+      },
+      {
+        "name": "Purvanshi Sharma",
+        "email": "purvanshi.sharma2205@gmail.com",
+        "job_title": "Marketing Intern",
+        "manager": "Isha Bisht",
+        "employee_id": "D008_E005"
+      },
+      {
+        "name": "Remya Mohanan",
+        "email": "remya@eoxs.com",
+        "job_title": "Director Marketing",
+        "manager": "Ron",
+        "employee_id": "D008_E006"
+      },
+      {
+        "name": "Rohan T.D",
+        "email": "rohantd21@gmail.com",
+        "job_title": "Marketing Intern",
+        "manager": "Ron",
+        "employee_id": "D008_E007"
+      },
+      {
+        "name": "Sameer Vats",
+        "email": "sameervats90@gmail.com",
+        "job_title": "Marketing Intern",
+        "manager": "Ron",
+        "employee_id": "D008_E008"
+      },
+      {
+        "name": "Shazeb",
+        "email": "shazeb@eoxsteam.com",
+        "job_title": "LinkedIn Manager",
+        "manager": "Ron",
+        "employee_id": "D008_E009"
+      }
+    ]
+  },
+  "Software Developer": {
+    "Department_ID": "D014",
+    "employees": [
+      {
+        "name": "Ayush Shrivastava",
+        "email": "ayushshrivastava7903@gmail.com",
+        "job_title": "Software Dev",
+        "manager": "Ron",
+        "employee_id": "D014_E001"
+      },
+      {
+        "name": "Babul Kumar",
+        "email": "babulsinghbhumi@gmail.com",
+        "job_title": "Software Dev",
+        "manager": "Ron",
+        "employee_id": "D014_E002"
+      },
+      {
+        "name": "Deepak Shandilya",
+        "email": "shandilyadeep09@gmail.com",
+        "job_title": "Software Dev",
+        "manager": "Ron",
+        "employee_id": "D014_E003"
+      },
+      {
+        "name": "Deepankar Singh",
+        "email": "deepankarsingheoxs@gmail.com",
+        "job_title": "Software Dev",
+        "manager": "Rohit Kumar Jha",
+        "employee_id": "D014_E004"
+      },
+      {
+        "name": "Gaurav Singh",
+        "email": "gauravsingheoxs@gmail.com",
+        "job_title": "Software Dev",
+        "manager": "Rohit Kumar Jha",
+        "employee_id": "D014_E005"
+      },
+      {
+        "name": "Kamal Nayan",
+        "email": "kamalnayan2eoxs@gmail.com",
+        "job_title": "Software Dev",
+        "manager": "Rohit Kumar Jha",
+        "employee_id": "D014_E006"
+      },
+      {
+        "name": "Kartikey Srivastava",
+        "email": "srvkartikey98@gmail.com",
+        "job_title": "Software Dev",
+        "manager": "Ron",
+        "employee_id": "D014_E007"
+      },
+      {
+        "name": "Niti Bhatia",
+        "email": "nitibhatia2004@gmail.com",
+        "job_title": "Software Dev",
+        "manager": "Ron",
+        "employee_id": "D014_E008"
+      },
+      {
+        "name": "Ritaban Datta",
+        "email": "ritabandatta2000@gmail.com",
+        "job_title": "Software Dev",
+        "manager": "Ron",
+        "employee_id": "D014_E009"
+      },
+      {
+        "name": "Vansh Bhardwaj",
+        "email": "vansh098987@gmail.com",
+        "job_title": "Software Dev",
+        "manager": "Ron",
+        "employee_id": "D014_E010"
+      }
+    ]
+  },
+  "Human Resource": {
+    "Department_ID": "D006",
+    "employees": [
+      {
+        "name": "Isha Bisht",
+        "email": "isha@eoxsteam.com",
+        "job_title": "HUMAN RESOURCE INTERN",
+        "manager": "Remya Mohanan",
+        "employee_id": "D006_E001"
+      }
+    ]
+  },
+  "Unknown": {
+    "Department_ID": "D015",
+    "employees": [
+      {
+        "name": "Lukman",
+        "email": "ola4eva2001@gmail.com",
+        "job_title": "Not Assigned",
+        "manager": "Not Assigned",
+        "employee_id": "D015_E001"
+      }
+    ]
+  },
+  "Administration": {
+    "Department_ID": "D001",
+    "employees": [
+      {
+        "name": "Rajat Jain",
+        "email": "rajat@eoxs.com",
+        "job_title": "CEO",
+        "manager": "Rajat Jain",
+        "employee_id": "D001_E001"
+      }
+    ]
+  },
+  "Sales": {
+    "Department_ID": "D013",
+    "employees": [
+      {
+        "name": "Ranit Dutta",
+        "email": "ranit@eoxsteam.com",
+        "job_title": "Lead Development Represenative",
+        "manager": "Ron",
+        "employee_id": "D013_E001"
+      },
+      {
+        "name": "Sonali Yadav",
+        "email": "sonali@eoxsteam.com",
+        "job_title": "Lead Development Represenative",
+        "manager": "Ron",
+        "employee_id": "D013_E002"
+      },
+      {
+        "name": "Yashvir Singh Thakur",
+        "email": "yash@eoxsteam.com",
+        "job_title": "Lead Development Represenative",
+        "manager": "Ron",
+        "employee_id": "D013_E003"
+      }
+    ]
+  },
+  "Video Editor": {
+    "Department_ID": "D016",
+    "employees": [
+      {
+        "name": "Toshika",
+        "email": "toshika231103@gmail.com",
+        "job_title": "Video Editor (Intern)",
+        "manager": "Ron",
+        "employee_id": "D016_E001"
+      }
+    ]
+  },
+  "YFS": {
+    "Department_ID": "D017",
+    "employees": [
+      {
+        "name": "Vishakha Wadhwani",
+        "email": "vishakhakgupta@gmail.com",
+        "job_title": "YFS",
+        "manager": "Yashvir Singh Thakur",
+        "employee_id": "D017_E001"
+      }
+    ]
+  },
+  "innovation cell": {
+    "employees": [
+      {
+        "name": "Virat",
+        "email": "virateoxs@gmail.com",
+        "job_title": "Ai intern",
+        "manager": "Ron"
+      }
+    ]
+  }
+}

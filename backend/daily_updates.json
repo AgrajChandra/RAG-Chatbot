@@ -1,0 +1,1524 @@
+[
+  {
+    "date": "2025-05-12",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shubham",
+      "Shivang",
+      "Jasbir",
+      "Sachin",
+      "Abhishek"
+    ],
+    "summary": "Scraped internal wiki data, Designed role-based architecture, Set up Docker containers, Developed query router. Blockers: API quota limits hit, Embedding timeout error.",
+    "tasks_completed": [
+      "Scraped internal wiki data",
+      "Designed role-based architecture",
+      "Set up Docker containers",
+      "Developed query router"
+    ],
+    "blockers": [
+      "API quota limits hit",
+      "Embedding timeout error"
+    ],
+    "next_steps": "Connect frontend to RAG backend"
+  },
+  {
+    "date": "2025-05-12",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Sahaj",
+      "Joey",
+      "Atharv",
+      "Manav",
+      "Sumit",
+      "Poojitha"
+    ],
+    "summary": "Tested PO-SO mismatch detection, Generated tabular comparison, Extracted text from PDFs.",
+    "tasks_completed": [
+      "Tested PO-SO mismatch detection",
+      "Generated tabular comparison",
+      "Extracted text from PDFs"
+    ],
+    "blockers": [],
+    "next_steps": "Connect backend to UI"
+  },
+  {
+    "date": "2025-05-13",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shivang",
+      "Jasbir",
+      "Shubham",
+      "Agraj",
+      "Abhishek"
+    ],
+    "summary": "Implemented response filtering, Scraped internal wiki data, Developed query router, Integrated FAISS index. Blockers: Prompt formatting issue.",
+    "tasks_completed": [
+      "Implemented response filtering",
+      "Scraped internal wiki data",
+      "Developed query router",
+      "Integrated FAISS index"
+    ],
+    "blockers": [
+      "Prompt formatting issue"
+    ],
+    "next_steps": "Test CEO-level query routing"
+  },
+  {
+    "date": "2025-05-13",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Sumit",
+      "Manav",
+      "Poojitha",
+      "Sahaj"
+    ],
+    "summary": "Tested PO-SO mismatch detection, Integrated Gemini Pro API, Compared document fields using LLM. Blockers: Mismatch in PDF text extraction, API quota limits hit.",
+    "tasks_completed": [
+      "Tested PO-SO mismatch detection",
+      "Integrated Gemini Pro API",
+      "Compared document fields using LLM"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction",
+      "API quota limits hit"
+    ],
+    "next_steps": "Improve summarization prompts"
+  },
+  {
+    "date": "2025-05-14",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Abhishek",
+      "Shivang",
+      "Agraj",
+      "Shubham",
+      "Jasbir"
+    ],
+    "summary": "Implemented response filtering, Scraped internal wiki data, Integrated FAISS index. Blockers: API quota limits hit.",
+    "tasks_completed": [
+      "Implemented response filtering",
+      "Scraped internal wiki data",
+      "Integrated FAISS index"
+    ],
+    "blockers": [
+      "API quota limits hit"
+    ],
+    "next_steps": "Refine summarization prompts"
+  },
+  {
+    "date": "2025-05-14",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Poojitha",
+      "Manav",
+      "Joey",
+      "Sumit"
+    ],
+    "summary": "Compared document fields using LLM, Integrated Gemini Pro API.",
+    "tasks_completed": [
+      "Compared document fields using LLM",
+      "Integrated Gemini Pro API"
+    ],
+    "blockers": [],
+    "next_steps": "Optimize field matching"
+  },
+  {
+    "date": "2025-05-15",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Abhishek",
+      "Agraj",
+      "Jasbir",
+      "Sachin"
+    ],
+    "summary": "Developed query router, Scraped internal wiki data.",
+    "tasks_completed": [
+      "Developed query router",
+      "Scraped internal wiki data"
+    ],
+    "blockers": [],
+    "next_steps": "Connect frontend to RAG backend"
+  },
+  {
+    "date": "2025-05-15",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Joey",
+      "Atharv",
+      "Sahaj",
+      "Manav"
+    ],
+    "summary": "Tested PO-SO mismatch detection, Extracted text from PDFs, Integrated Gemini Pro API, Built Streamlit frontend. Blockers: Prompt formatting issue.",
+    "tasks_completed": [
+      "Tested PO-SO mismatch detection",
+      "Extracted text from PDFs",
+      "Integrated Gemini Pro API",
+      "Built Streamlit frontend"
+    ],
+    "blockers": [
+      "Prompt formatting issue"
+    ],
+    "next_steps": "Optimize field matching"
+  },
+  {
+    "date": "2025-05-16",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shubham",
+      "Shivang",
+      "Jasbir",
+      "Abhishek",
+      "Agraj"
+    ],
+    "summary": "Designed role-based architecture, Integrated FAISS index, Developed query router. Blockers: Prompt formatting issue, Mismatch in PDF text extraction.",
+    "tasks_completed": [
+      "Designed role-based architecture",
+      "Integrated FAISS index",
+      "Developed query router"
+    ],
+    "blockers": [
+      "Prompt formatting issue",
+      "Mismatch in PDF text extraction"
+    ],
+    "next_steps": "Optimize embedding storage"
+  },
+  {
+    "date": "2025-05-16",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Joey",
+      "Sumit",
+      "Atharv",
+      "Manav",
+      "Sahaj",
+      "Poojitha"
+    ],
+    "summary": "Compared document fields using LLM, Generated tabular comparison, Extracted text from PDFs, Built Streamlit frontend. Blockers: Embedding timeout error.",
+    "tasks_completed": [
+      "Compared document fields using LLM",
+      "Generated tabular comparison",
+      "Extracted text from PDFs",
+      "Built Streamlit frontend"
+    ],
+    "blockers": [
+      "Embedding timeout error"
+    ],
+    "next_steps": "Deploy Docker container"
+  },
+  {
+    "date": "2025-05-17",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Abhishek",
+      "Agraj",
+      "Shivang",
+      "Shubham",
+      "Jasbir"
+    ],
+    "summary": "Scraped internal wiki data, Designed role-based architecture, Integrated FAISS index, Developed query router. Blockers: Prompt formatting issue.",
+    "tasks_completed": [
+      "Scraped internal wiki data",
+      "Designed role-based architecture",
+      "Integrated FAISS index",
+      "Developed query router"
+    ],
+    "blockers": [
+      "Prompt formatting issue"
+    ],
+    "next_steps": "Optimize embedding storage"
+  },
+  {
+    "date": "2025-05-17",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Poojitha",
+      "Atharv",
+      "Manav",
+      "Sahaj",
+      "Sumit"
+    ],
+    "summary": "Built Streamlit frontend, Tested PO-SO mismatch detection, Integrated Gemini Pro API, Extracted text from PDFs. Blockers: Prompt formatting issue, API quota limits hit.",
+    "tasks_completed": [
+      "Built Streamlit frontend",
+      "Tested PO-SO mismatch detection",
+      "Integrated Gemini Pro API",
+      "Extracted text from PDFs"
+    ],
+    "blockers": [
+      "Prompt formatting issue",
+      "API quota limits hit"
+    ],
+    "next_steps": "Connect backend to UI"
+  },
+  {
+    "date": "2025-05-18",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Jasbir",
+      "Agraj",
+      "Sachin",
+      "Abhishek",
+      "Shivang"
+    ],
+    "summary": "Integrated FAISS index, Developed query router, Designed role-based architecture, Implemented response filtering. Blockers: Prompt formatting issue, Embedding timeout error.",
+    "tasks_completed": [
+      "Integrated FAISS index",
+      "Developed query router",
+      "Designed role-based architecture",
+      "Implemented response filtering"
+    ],
+    "blockers": [
+      "Prompt formatting issue",
+      "Embedding timeout error"
+    ],
+    "next_steps": "Test CEO-level query routing"
+  },
+  {
+    "date": "2025-05-18",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Sahaj",
+      "Manav",
+      "Sumit",
+      "Atharv",
+      "Poojitha",
+      "Joey"
+    ],
+    "summary": "Generated tabular comparison, Integrated Gemini Pro API, Compared document fields using LLM, Extracted text from PDFs. Blockers: Embedding timeout error.",
+    "tasks_completed": [
+      "Generated tabular comparison",
+      "Integrated Gemini Pro API",
+      "Compared document fields using LLM",
+      "Extracted text from PDFs"
+    ],
+    "blockers": [
+      "Embedding timeout error"
+    ],
+    "next_steps": "Deploy Docker container"
+  },
+  {
+    "date": "2025-05-19",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shubham",
+      "Shivang",
+      "Jasbir",
+      "Agraj"
+    ],
+    "summary": "Developed query router, Designed role-based architecture, Integrated FAISS index, Implemented response filtering. Blockers: Mismatch in PDF text extraction, Prompt formatting issue.",
+    "tasks_completed": [
+      "Developed query router",
+      "Designed role-based architecture",
+      "Integrated FAISS index",
+      "Implemented response filtering"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction",
+      "Prompt formatting issue"
+    ],
+    "next_steps": "Optimize embedding storage"
+  },
+  {
+    "date": "2025-05-19",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Atharv",
+      "Poojitha",
+      "Sahaj",
+      "Sumit"
+    ],
+    "summary": "Generated tabular comparison, Integrated Gemini Pro API.",
+    "tasks_completed": [
+      "Generated tabular comparison",
+      "Integrated Gemini Pro API"
+    ],
+    "blockers": [],
+    "next_steps": "Improve summarization prompts"
+  },
+  {
+    "date": "2025-05-20",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shivang",
+      "Abhishek",
+      "Agraj",
+      "Shubham",
+      "Sachin"
+    ],
+    "summary": "Developed query router, Integrated FAISS index, Scraped internal wiki data, Set up Docker containers.",
+    "tasks_completed": [
+      "Developed query router",
+      "Integrated FAISS index",
+      "Scraped internal wiki data",
+      "Set up Docker containers"
+    ],
+    "blockers": [],
+    "next_steps": "Optimize embedding storage"
+  },
+  {
+    "date": "2025-05-20",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Manav",
+      "Joey",
+      "Sumit",
+      "Sahaj"
+    ],
+    "summary": "Generated tabular comparison, Tested PO-SO mismatch detection. Blockers: Embedding timeout error.",
+    "tasks_completed": [
+      "Generated tabular comparison",
+      "Tested PO-SO mismatch detection"
+    ],
+    "blockers": [
+      "Embedding timeout error"
+    ],
+    "next_steps": "Connect backend to UI"
+  },
+  {
+    "date": "2025-05-21",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shivang",
+      "Sachin",
+      "Jasbir",
+      "Agraj"
+    ],
+    "summary": "Set up Docker containers, Developed query router.",
+    "tasks_completed": [
+      "Set up Docker containers",
+      "Developed query router"
+    ],
+    "blockers": [],
+    "next_steps": "Connect frontend to RAG backend"
+  },
+  {
+    "date": "2025-05-21",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Manav",
+      "Atharv",
+      "Poojitha",
+      "Sumit",
+      "Sahaj"
+    ],
+    "summary": "Extracted text from PDFs, Built Streamlit frontend, Integrated Gemini Pro API, Tested PO-SO mismatch detection. Blockers: Prompt formatting issue.",
+    "tasks_completed": [
+      "Extracted text from PDFs",
+      "Built Streamlit frontend",
+      "Integrated Gemini Pro API",
+      "Tested PO-SO mismatch detection"
+    ],
+    "blockers": [
+      "Prompt formatting issue"
+    ],
+    "next_steps": "Optimize field matching"
+  },
+  {
+    "date": "2025-05-22",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Abhishek",
+      "Shubham",
+      "Sachin",
+      "Jasbir",
+      "Shivang",
+      "Agraj"
+    ],
+    "summary": "Scraped internal wiki data, Designed role-based architecture. Blockers: API quota limits hit.",
+    "tasks_completed": [
+      "Scraped internal wiki data",
+      "Designed role-based architecture"
+    ],
+    "blockers": [
+      "API quota limits hit"
+    ],
+    "next_steps": "Connect frontend to RAG backend"
+  },
+  {
+    "date": "2025-05-22",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Poojitha",
+      "Manav",
+      "Atharv",
+      "Joey"
+    ],
+    "summary": "Generated tabular comparison, Compared document fields using LLM.",
+    "tasks_completed": [
+      "Generated tabular comparison",
+      "Compared document fields using LLM"
+    ],
+    "blockers": [],
+    "next_steps": "Connect backend to UI"
+  },
+  {
+    "date": "2025-05-23",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shubham",
+      "Agraj",
+      "Jasbir",
+      "Shivang"
+    ],
+    "summary": "Scraped internal wiki data, Implemented response filtering. Blockers: Prompt formatting issue, Embedding timeout error.",
+    "tasks_completed": [
+      "Scraped internal wiki data",
+      "Implemented response filtering"
+    ],
+    "blockers": [
+      "Prompt formatting issue",
+      "Embedding timeout error"
+    ],
+    "next_steps": "Test CEO-level query routing"
+  },
+  {
+    "date": "2025-05-23",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Atharv",
+      "Manav",
+      "Sumit",
+      "Poojitha"
+    ],
+    "summary": "Extracted text from PDFs, Built Streamlit frontend, Tested PO-SO mismatch detection, Generated tabular comparison.",
+    "tasks_completed": [
+      "Extracted text from PDFs",
+      "Built Streamlit frontend",
+      "Tested PO-SO mismatch detection",
+      "Generated tabular comparison"
+    ],
+    "blockers": [],
+    "next_steps": "Deploy Docker container"
+  },
+  {
+    "date": "2025-05-24",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Abhishek",
+      "Jasbir",
+      "Shivang",
+      "Shubham",
+      "Agraj",
+      "Sachin"
+    ],
+    "summary": "Implemented response filtering, Set up Docker containers, Scraped internal wiki data. Blockers: Mismatch in PDF text extraction, API quota limits hit.",
+    "tasks_completed": [
+      "Implemented response filtering",
+      "Set up Docker containers",
+      "Scraped internal wiki data"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction",
+      "API quota limits hit"
+    ],
+    "next_steps": "Test CEO-level query routing"
+  },
+  {
+    "date": "2025-05-24",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Atharv",
+      "Sumit",
+      "Poojitha",
+      "Manav",
+      "Sahaj",
+      "Joey"
+    ],
+    "summary": "Integrated Gemini Pro API, Compared document fields using LLM.",
+    "tasks_completed": [
+      "Integrated Gemini Pro API",
+      "Compared document fields using LLM"
+    ],
+    "blockers": [],
+    "next_steps": "Improve summarization prompts"
+  },
+  {
+    "date": "2025-05-25",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Sachin",
+      "Abhishek",
+      "Jasbir",
+      "Agraj",
+      "Shubham"
+    ],
+    "summary": "Scraped internal wiki data, Integrated FAISS index. Blockers: Embedding timeout error, API quota limits hit.",
+    "tasks_completed": [
+      "Scraped internal wiki data",
+      "Integrated FAISS index"
+    ],
+    "blockers": [
+      "Embedding timeout error",
+      "API quota limits hit"
+    ],
+    "next_steps": "Refine summarization prompts"
+  },
+  {
+    "date": "2025-05-25",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Joey",
+      "Atharv",
+      "Poojitha",
+      "Sahaj"
+    ],
+    "summary": "Compared document fields using LLM, Built Streamlit frontend, Integrated Gemini Pro API, Tested PO-SO mismatch detection. Blockers: Embedding timeout error.",
+    "tasks_completed": [
+      "Compared document fields using LLM",
+      "Built Streamlit frontend",
+      "Integrated Gemini Pro API",
+      "Tested PO-SO mismatch detection"
+    ],
+    "blockers": [
+      "Embedding timeout error"
+    ],
+    "next_steps": "Deploy Docker container"
+  },
+  {
+    "date": "2025-05-26",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Agraj",
+      "Shivang",
+      "Shubham",
+      "Abhishek"
+    ],
+    "summary": "Developed query router, Set up Docker containers, Scraped internal wiki data. Blockers: API quota limits hit, Prompt formatting issue.",
+    "tasks_completed": [
+      "Developed query router",
+      "Set up Docker containers",
+      "Scraped internal wiki data"
+    ],
+    "blockers": [
+      "API quota limits hit",
+      "Prompt formatting issue"
+    ],
+    "next_steps": "Refine summarization prompts"
+  },
+  {
+    "date": "2025-05-26",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Manav",
+      "Poojitha",
+      "Sumit",
+      "Sahaj",
+      "Joey",
+      "Atharv"
+    ],
+    "summary": "Tested PO-SO mismatch detection, Extracted text from PDFs.",
+    "tasks_completed": [
+      "Tested PO-SO mismatch detection",
+      "Extracted text from PDFs"
+    ],
+    "blockers": [],
+    "next_steps": "Improve summarization prompts"
+  },
+  {
+    "date": "2025-05-27",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Abhishek",
+      "Shivang",
+      "Agraj",
+      "Jasbir",
+      "Shubham",
+      "Sachin"
+    ],
+    "summary": "Implemented response filtering, Integrated FAISS index, Scraped internal wiki data. Blockers: Embedding timeout error.",
+    "tasks_completed": [
+      "Implemented response filtering",
+      "Integrated FAISS index",
+      "Scraped internal wiki data"
+    ],
+    "blockers": [
+      "Embedding timeout error"
+    ],
+    "next_steps": "Connect frontend to RAG backend"
+  },
+  {
+    "date": "2025-05-27",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Atharv",
+      "Joey",
+      "Sahaj",
+      "Poojitha",
+      "Manav",
+      "Sumit"
+    ],
+    "summary": "Integrated Gemini Pro API, Built Streamlit frontend, Generated tabular comparison. Blockers: Mismatch in PDF text extraction.",
+    "tasks_completed": [
+      "Integrated Gemini Pro API",
+      "Built Streamlit frontend",
+      "Generated tabular comparison"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction"
+    ],
+    "next_steps": "Optimize field matching"
+  },
+  {
+    "date": "2025-05-28",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Jasbir",
+      "Agraj",
+      "Abhishek",
+      "Sachin",
+      "Shubham"
+    ],
+    "summary": "Developed query router, Set up Docker containers, Implemented response filtering. Blockers: Mismatch in PDF text extraction, Prompt formatting issue.",
+    "tasks_completed": [
+      "Developed query router",
+      "Set up Docker containers",
+      "Implemented response filtering"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction",
+      "Prompt formatting issue"
+    ],
+    "next_steps": "Test CEO-level query routing"
+  },
+  {
+    "date": "2025-05-28",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Manav",
+      "Atharv",
+      "Sahaj",
+      "Poojitha",
+      "Sumit",
+      "Joey"
+    ],
+    "summary": "Tested PO-SO mismatch detection, Compared document fields using LLM, Generated tabular comparison, Extracted text from PDFs. Blockers: Mismatch in PDF text extraction.",
+    "tasks_completed": [
+      "Tested PO-SO mismatch detection",
+      "Compared document fields using LLM",
+      "Generated tabular comparison",
+      "Extracted text from PDFs"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction"
+    ],
+    "next_steps": "Connect backend to UI"
+  },
+  {
+    "date": "2025-05-29",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Sachin",
+      "Jasbir",
+      "Abhishek",
+      "Agraj"
+    ],
+    "summary": "Designed role-based architecture, Set up Docker containers.",
+    "tasks_completed": [
+      "Designed role-based architecture",
+      "Set up Docker containers"
+    ],
+    "blockers": [],
+    "next_steps": "Refine summarization prompts"
+  },
+  {
+    "date": "2025-05-29",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Manav",
+      "Poojitha",
+      "Atharv",
+      "Sumit",
+      "Joey",
+      "Sahaj"
+    ],
+    "summary": "Tested PO-SO mismatch detection, Integrated Gemini Pro API.",
+    "tasks_completed": [
+      "Tested PO-SO mismatch detection",
+      "Integrated Gemini Pro API"
+    ],
+    "blockers": [],
+    "next_steps": "Connect backend to UI"
+  },
+  {
+    "date": "2025-05-30",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Agraj",
+      "Jasbir",
+      "Shivang",
+      "Shubham",
+      "Sachin"
+    ],
+    "summary": "Integrated FAISS index, Implemented response filtering.",
+    "tasks_completed": [
+      "Integrated FAISS index",
+      "Implemented response filtering"
+    ],
+    "blockers": [],
+    "next_steps": "Connect frontend to RAG backend"
+  },
+  {
+    "date": "2025-05-30",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Manav",
+      "Atharv",
+      "Poojitha",
+      "Sumit"
+    ],
+    "summary": "Built Streamlit frontend, Compared document fields using LLM. Blockers: Prompt formatting issue, Mismatch in PDF text extraction.",
+    "tasks_completed": [
+      "Built Streamlit frontend",
+      "Compared document fields using LLM"
+    ],
+    "blockers": [
+      "Prompt formatting issue",
+      "Mismatch in PDF text extraction"
+    ],
+    "next_steps": "Optimize field matching"
+  },
+  {
+    "date": "2025-05-31",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Jasbir",
+      "Shivang",
+      "Agraj",
+      "Sachin",
+      "Shubham"
+    ],
+    "summary": "Scraped internal wiki data, Integrated FAISS index, Implemented response filtering, Designed role-based architecture. Blockers: API quota limits hit.",
+    "tasks_completed": [
+      "Scraped internal wiki data",
+      "Integrated FAISS index",
+      "Implemented response filtering",
+      "Designed role-based architecture"
+    ],
+    "blockers": [
+      "API quota limits hit"
+    ],
+    "next_steps": "Optimize embedding storage"
+  },
+  {
+    "date": "2025-05-31",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Joey",
+      "Manav",
+      "Atharv",
+      "Poojitha",
+      "Sumit"
+    ],
+    "summary": "Tested PO-SO mismatch detection, Compared document fields using LLM, Extracted text from PDFs, Integrated Gemini Pro API. Blockers: Embedding timeout error.",
+    "tasks_completed": [
+      "Tested PO-SO mismatch detection",
+      "Compared document fields using LLM",
+      "Extracted text from PDFs",
+      "Integrated Gemini Pro API"
+    ],
+    "blockers": [
+      "Embedding timeout error"
+    ],
+    "next_steps": "Optimize field matching"
+  },
+  {
+    "date": "2025-06-01",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Jasbir",
+      "Shivang",
+      "Sachin",
+      "Shubham",
+      "Abhishek",
+      "Agraj"
+    ],
+    "summary": "Integrated FAISS index, Scraped internal wiki data, Set up Docker containers.",
+    "tasks_completed": [
+      "Integrated FAISS index",
+      "Scraped internal wiki data",
+      "Set up Docker containers"
+    ],
+    "blockers": [],
+    "next_steps": "Optimize embedding storage"
+  },
+  {
+    "date": "2025-06-01",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Poojitha",
+      "Sumit",
+      "Manav",
+      "Atharv",
+      "Joey"
+    ],
+    "summary": "Integrated Gemini Pro API, Generated tabular comparison, Extracted text from PDFs, Tested PO-SO mismatch detection. Blockers: Mismatch in PDF text extraction, Embedding timeout error.",
+    "tasks_completed": [
+      "Integrated Gemini Pro API",
+      "Generated tabular comparison",
+      "Extracted text from PDFs",
+      "Tested PO-SO mismatch detection"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction",
+      "Embedding timeout error"
+    ],
+    "next_steps": "Deploy Docker container"
+  },
+  {
+    "date": "2025-06-02",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shivang",
+      "Jasbir",
+      "Shubham",
+      "Sachin",
+      "Agraj"
+    ],
+    "summary": "Developed query router, Implemented response filtering, Designed role-based architecture.",
+    "tasks_completed": [
+      "Developed query router",
+      "Implemented response filtering",
+      "Designed role-based architecture"
+    ],
+    "blockers": [],
+    "next_steps": "Refine summarization prompts"
+  },
+  {
+    "date": "2025-06-02",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Sahaj",
+      "Atharv",
+      "Joey",
+      "Sumit",
+      "Poojitha",
+      "Manav"
+    ],
+    "summary": "Tested PO-SO mismatch detection, Compared document fields using LLM. Blockers: API quota limits hit, Prompt formatting issue.",
+    "tasks_completed": [
+      "Tested PO-SO mismatch detection",
+      "Compared document fields using LLM"
+    ],
+    "blockers": [
+      "API quota limits hit",
+      "Prompt formatting issue"
+    ],
+    "next_steps": "Improve summarization prompts"
+  },
+  {
+    "date": "2025-06-03",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shubham",
+      "Agraj",
+      "Abhishek",
+      "Sachin",
+      "Jasbir",
+      "Shivang"
+    ],
+    "summary": "Designed role-based architecture, Implemented response filtering, Set up Docker containers.",
+    "tasks_completed": [
+      "Designed role-based architecture",
+      "Implemented response filtering",
+      "Set up Docker containers"
+    ],
+    "blockers": [],
+    "next_steps": "Optimize embedding storage"
+  },
+  {
+    "date": "2025-06-03",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Atharv",
+      "Manav",
+      "Sumit",
+      "Joey"
+    ],
+    "summary": "Compared document fields using LLM, Built Streamlit frontend, Extracted text from PDFs. Blockers: Prompt formatting issue.",
+    "tasks_completed": [
+      "Compared document fields using LLM",
+      "Built Streamlit frontend",
+      "Extracted text from PDFs"
+    ],
+    "blockers": [
+      "Prompt formatting issue"
+    ],
+    "next_steps": "Improve summarization prompts"
+  },
+  {
+    "date": "2025-06-04",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Agraj",
+      "Jasbir",
+      "Abhishek",
+      "Shubham",
+      "Sachin"
+    ],
+    "summary": "Integrated FAISS index, Implemented response filtering, Designed role-based architecture.",
+    "tasks_completed": [
+      "Integrated FAISS index",
+      "Implemented response filtering",
+      "Designed role-based architecture"
+    ],
+    "blockers": [],
+    "next_steps": "Refine summarization prompts"
+  },
+  {
+    "date": "2025-06-04",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Sahaj",
+      "Joey",
+      "Atharv",
+      "Manav",
+      "Sumit",
+      "Poojitha"
+    ],
+    "summary": "Generated tabular comparison, Integrated Gemini Pro API. Blockers: Prompt formatting issue, Embedding timeout error.",
+    "tasks_completed": [
+      "Generated tabular comparison",
+      "Integrated Gemini Pro API"
+    ],
+    "blockers": [
+      "Prompt formatting issue",
+      "Embedding timeout error"
+    ],
+    "next_steps": "Improve summarization prompts"
+  },
+  {
+    "date": "2025-06-05",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Agraj",
+      "Jasbir",
+      "Sachin",
+      "Shubham",
+      "Abhishek",
+      "Shivang"
+    ],
+    "summary": "Implemented response filtering, Integrated FAISS index, Set up Docker containers, Scraped internal wiki data.",
+    "tasks_completed": [
+      "Implemented response filtering",
+      "Integrated FAISS index",
+      "Set up Docker containers",
+      "Scraped internal wiki data"
+    ],
+    "blockers": [],
+    "next_steps": "Test CEO-level query routing"
+  },
+  {
+    "date": "2025-06-05",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Sumit",
+      "Joey",
+      "Atharv",
+      "Manav",
+      "Poojitha",
+      "Sahaj"
+    ],
+    "summary": "Tested PO-SO mismatch detection, Built Streamlit frontend, Extracted text from PDFs, Compared document fields using LLM. Blockers: Mismatch in PDF text extraction, Prompt formatting issue.",
+    "tasks_completed": [
+      "Tested PO-SO mismatch detection",
+      "Built Streamlit frontend",
+      "Extracted text from PDFs",
+      "Compared document fields using LLM"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction",
+      "Prompt formatting issue"
+    ],
+    "next_steps": "Improve summarization prompts"
+  },
+  {
+    "date": "2025-06-06",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Jasbir",
+      "Shubham",
+      "Shivang",
+      "Sachin"
+    ],
+    "summary": "Scraped internal wiki data, Set up Docker containers, Integrated FAISS index, Designed role-based architecture.",
+    "tasks_completed": [
+      "Scraped internal wiki data",
+      "Set up Docker containers",
+      "Integrated FAISS index",
+      "Designed role-based architecture"
+    ],
+    "blockers": [],
+    "next_steps": "Optimize embedding storage"
+  },
+  {
+    "date": "2025-06-06",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Sahaj",
+      "Atharv",
+      "Sumit",
+      "Joey",
+      "Poojitha",
+      "Manav"
+    ],
+    "summary": "Extracted text from PDFs, Compared document fields using LLM, Built Streamlit frontend.",
+    "tasks_completed": [
+      "Extracted text from PDFs",
+      "Compared document fields using LLM",
+      "Built Streamlit frontend"
+    ],
+    "blockers": [],
+    "next_steps": "Optimize field matching"
+  },
+  {
+    "date": "2025-06-07",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shubham",
+      "Agraj",
+      "Abhishek",
+      "Shivang"
+    ],
+    "summary": "Scraped internal wiki data, Set up Docker containers, Designed role-based architecture, Developed query router. Blockers: Mismatch in PDF text extraction.",
+    "tasks_completed": [
+      "Scraped internal wiki data",
+      "Set up Docker containers",
+      "Designed role-based architecture",
+      "Developed query router"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction"
+    ],
+    "next_steps": "Connect frontend to RAG backend"
+  },
+  {
+    "date": "2025-06-07",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Manav",
+      "Sumit",
+      "Joey",
+      "Sahaj",
+      "Poojitha",
+      "Atharv"
+    ],
+    "summary": "Tested PO-SO mismatch detection, Integrated Gemini Pro API, Extracted text from PDFs.",
+    "tasks_completed": [
+      "Tested PO-SO mismatch detection",
+      "Integrated Gemini Pro API",
+      "Extracted text from PDFs"
+    ],
+    "blockers": [],
+    "next_steps": "Deploy Docker container"
+  },
+  {
+    "date": "2025-06-08",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Sachin",
+      "Shivang",
+      "Jasbir",
+      "Shubham",
+      "Agraj"
+    ],
+    "summary": "Implemented response filtering, Integrated FAISS index, Designed role-based architecture. Blockers: API quota limits hit.",
+    "tasks_completed": [
+      "Implemented response filtering",
+      "Integrated FAISS index",
+      "Designed role-based architecture"
+    ],
+    "blockers": [
+      "API quota limits hit"
+    ],
+    "next_steps": "Test CEO-level query routing"
+  },
+  {
+    "date": "2025-06-08",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Sumit",
+      "Sahaj",
+      "Joey",
+      "Poojitha"
+    ],
+    "summary": "Extracted text from PDFs, Built Streamlit frontend, Tested PO-SO mismatch detection, Compared document fields using LLM.",
+    "tasks_completed": [
+      "Extracted text from PDFs",
+      "Built Streamlit frontend",
+      "Tested PO-SO mismatch detection",
+      "Compared document fields using LLM"
+    ],
+    "blockers": [],
+    "next_steps": "Deploy Docker container"
+  },
+  {
+    "date": "2025-06-09",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shivang",
+      "Jasbir",
+      "Sachin",
+      "Abhishek"
+    ],
+    "summary": "Implemented response filtering, Developed query router, Integrated FAISS index. Blockers: Mismatch in PDF text extraction.",
+    "tasks_completed": [
+      "Implemented response filtering",
+      "Developed query router",
+      "Integrated FAISS index"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction"
+    ],
+    "next_steps": "Refine summarization prompts"
+  },
+  {
+    "date": "2025-06-09",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Atharv",
+      "Sumit",
+      "Sahaj",
+      "Poojitha"
+    ],
+    "summary": "Extracted text from PDFs, Built Streamlit frontend. Blockers: API quota limits hit.",
+    "tasks_completed": [
+      "Extracted text from PDFs",
+      "Built Streamlit frontend"
+    ],
+    "blockers": [
+      "API quota limits hit"
+    ],
+    "next_steps": "Improve summarization prompts"
+  },
+  {
+    "date": "2025-06-10",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Shubham",
+      "Agraj",
+      "Abhishek",
+      "Jasbir",
+      "Shivang",
+      "Sachin"
+    ],
+    "summary": "Designed role-based architecture, Integrated FAISS index, Scraped internal wiki data, Set up Docker containers. Blockers: Mismatch in PDF text extraction.",
+    "tasks_completed": [
+      "Designed role-based architecture",
+      "Integrated FAISS index",
+      "Scraped internal wiki data",
+      "Set up Docker containers"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction"
+    ],
+    "next_steps": "Optimize embedding storage"
+  },
+  {
+    "date": "2025-06-10",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Manav",
+      "Joey",
+      "Sumit",
+      "Atharv",
+      "Poojitha"
+    ],
+    "summary": "Extracted text from PDFs, Compared document fields using LLM, Tested PO-SO mismatch detection, Built Streamlit frontend. Blockers: Prompt formatting issue, Embedding timeout error.",
+    "tasks_completed": [
+      "Extracted text from PDFs",
+      "Compared document fields using LLM",
+      "Tested PO-SO mismatch detection",
+      "Built Streamlit frontend"
+    ],
+    "blockers": [
+      "Prompt formatting issue",
+      "Embedding timeout error"
+    ],
+    "next_steps": "Deploy Docker container"
+  },
+  {
+    "date": "2025-06-11",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Agraj",
+      "Jasbir",
+      "Shubham",
+      "Shivang",
+      "Abhishek"
+    ],
+    "summary": "Scraped internal wiki data, Designed role-based architecture. Blockers: Prompt formatting issue, Mismatch in PDF text extraction.",
+    "tasks_completed": [
+      "Scraped internal wiki data",
+      "Designed role-based architecture"
+    ],
+    "blockers": [
+      "Prompt formatting issue",
+      "Mismatch in PDF text extraction"
+    ],
+    "next_steps": "Test CEO-level query routing"
+  },
+  {
+    "date": "2025-06-11",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Joey",
+      "Atharv",
+      "Poojitha",
+      "Manav",
+      "Sumit",
+      "Sahaj"
+    ],
+    "summary": "Generated tabular comparison, Tested PO-SO mismatch detection.",
+    "tasks_completed": [
+      "Generated tabular comparison",
+      "Tested PO-SO mismatch detection"
+    ],
+    "blockers": [],
+    "next_steps": "Optimize field matching"
+  },
+  {
+    "date": "2025-06-12",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Abhishek",
+      "Agraj",
+      "Shubham",
+      "Shivang",
+      "Sachin",
+      "Jasbir"
+    ],
+    "summary": "Developed query router, Implemented response filtering.",
+    "tasks_completed": [
+      "Developed query router",
+      "Implemented response filtering"
+    ],
+    "blockers": [],
+    "next_steps": "Optimize embedding storage"
+  },
+  {
+    "date": "2025-06-12",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Manav",
+      "Sahaj",
+      "Joey",
+      "Atharv",
+      "Poojitha"
+    ],
+    "summary": "Tested PO-SO mismatch detection, Integrated Gemini Pro API, Generated tabular comparison, Built Streamlit frontend. Blockers: Mismatch in PDF text extraction.",
+    "tasks_completed": [
+      "Tested PO-SO mismatch detection",
+      "Integrated Gemini Pro API",
+      "Generated tabular comparison",
+      "Built Streamlit frontend"
+    ],
+    "blockers": [
+      "Mismatch in PDF text extraction"
+    ],
+    "next_steps": "Connect backend to UI"
+  },
+  {
+    "date": "2025-06-13",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Tally PDF Tool",
+    "present_members": [
+      "Joey",
+      "Sahaj"
+    ],
+    "summary": "Tested mismatches",
+    "tasks_completed": [
+      "Extracted text",
+      "Built frontend"
+    ],
+    "blockers": [
+      "None"
+    ],
+    "next_steps": "Deploy container"
+  },
+  {
+    "date": "2025-06-14",
+    "team": "AI Generalist",
+    "sub_team": "AI 2",
+    "project": "Chatbot",
+    "present_members": [
+      "Sachin",
+      "Sahaj"
+    ],
+    "summary": "Tested mismatches",
+    "tasks_completed": [
+      "Extracted text",
+      "Built frontend"
+    ],
+    "blockers": [
+      "None"
+    ],
+    "next_steps": "Deploy container"
+  },
+  {
+    "date": "2025-06-15",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Sachin",
+      "Abhishek"
+    ],
+    "summary": "Managed the team",
+    "tasks_completed": [
+      "Assigned the task for each member",
+      "discussed about the pipeline"
+    ],
+    "blockers": [
+      "Nothing"
+    ],
+    "next_steps": "Chill"
+  },
+  {
+    "date": "2025-06-15",
+    "team": "AI Generalist",
+    "sub_team": "AI 1",
+    "project": "Chatbot",
+    "present_members": [
+      "Sachin",
+      "Agraj"
+    ],
+    "summary": "Fought Superman",
+    "tasks_completed": [
+      "killed joker"
+    ],
+    "blockers": [
+      "Joker"
+    ],
+    "next_steps": "kill batman"
+  }
+]
