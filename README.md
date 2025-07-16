@@ -71,7 +71,7 @@ The application will be available at:
 
 1. Open http://localhost:3000 in your browser
 2. Use the chat interface to ask questions about:
-   - EOXS products and features
+   - Products and features
    - Daily team updates
    - Employee information
 3. Use the Daily Update form to submit new team updates
