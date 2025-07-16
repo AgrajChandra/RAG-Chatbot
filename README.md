@@ -1,4 +1,4 @@
-# EOXS RAG Chatbot
+# RAG Chatbot
 
 A chatbot application that uses Retrieval-Augmented Generation (RAG) to provide accurate responses about EOXS products, daily updates, and employee information.
 
